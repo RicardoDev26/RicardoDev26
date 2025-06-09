@@ -1,3 +1,4 @@
+  ![Full Stack Developer Technologies](https://github.com/user-attachments/assets/22c09524-83f4-44f2-935f-f7e9def810ea)
 
 
  - I am a FullStack Developer from Tijuana, Mexico
