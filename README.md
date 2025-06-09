@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**RicardoDev26/RicardoDev26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ - I am a FullStack Developer from Tijuana, Mexico
+ - Visit my [Personal website](https://ricardodev26.github.io/)
+ - TechStacks Frontend `.js` `.ts` `.jsx` `.tsx` `.css` `vue` `react` `react native`
+ `nextjs` `svelte` `astro` `Tailwind CSS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - TeachStack Backend `Python` `GraphQL` `Go` `Javascript` `Typescript` `Rust` `Express.js` `FastAPI` `Django` `WebSockets` `REST` 
+
+ - TechStacks BD `MySQL` `PostgreSQL` `SQLite` `MongoDB`
+
+ - OtherTech `Langchain` `OpenAI` `Redis` `Linux Shell` `Git` `Github` `Azure` `Postman` `Pytest` `Selenium` `Playwright` `Docker` `Docker Compose` `Kubernetes` `Swagger`
+
+
+ ## Github Stats
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RicardoDev26&theme=react&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
